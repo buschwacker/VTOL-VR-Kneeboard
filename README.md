@@ -5,6 +5,8 @@ The PNGs folder contains images for all REDFOR RWR symbols as well as all REDFOR
 - Index Land = REDFOR Land units
 - Index Sea = REDFOR naval units
 
+<a href=https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fbuschwacker%2FVTOL-VR-Kneeboard%2Ftree%2Fmain%2FPNGs>Download Here</a>
+
 I use <a href=https://openkneeboard.com/>OpenKneeboard</a> by simply saving the entire PNGs folder and pointing OpenKeeboard to the subfolders so that each subfolder is a separate tab.
 I also use a wireless numpad tied to my knee to cycle between tabs and pages :)
 
