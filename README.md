@@ -14,5 +14,5 @@ May your IFF always be true.
 
 ![RWR REDFOR Threat 1](https://github.com/buschwacker/VTOL-VR-Kneeboard/assets/14927815/c1b96ccb-5cbc-4ba8-93ac-d1b263f20f7a)
 ![MAD-4](https://github.com/buschwacker/VTOL-VR-Kneeboard/assets/14927815/6fa45f9b-0e75-4b28-84ab-2f76463a7b97)
-![GAV-25-1](https://github.com/buschwacker/VTOL-VR-Kneeboard/assets/14927815/a6dff1fd-17f7-44e6-8681-541db43f659b)
-![NMSS Cruiser](https://github.com/buschwacker/VTOL-VR-Kneeboard/assets/14927815/dbee44f5-0940-4c8d-924f-7697b8ba8a0f)
+![GAV-25](https://github.com/buschwacker/VTOL-VR-Kneeboard/assets/14927815/a6dff1fd-17f7-44e6-8681-541db43f659b)
+![NMSS Cruiser](https://github.com/buschwacker/VTOL-VR-Kneeboard/blob/main/PNGs/Index%20Sea/NMSS%20Cruiser.png)
