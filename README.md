@@ -7,7 +7,7 @@ The PNGs folder contains images for all REDFOR RWR symbols as well as all REDFOR
 
 Download Here: https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fbuschwacker%2FVTOL-VR-Kneeboard%2Ftree%2Fmain%2FPNGs
 
-I use <a href=https://openkneeboard.com/>OpenKneeboard</a> by simply saving the entire PNGs folder and pointing OpennKeeboard to the subfolders so that each subfolder is a separate tab.
+I use <a href=https://openkneeboard.com/>OpenKneeboard</a> by simply saving the entire PNGs folder and pointing OpenKneeboard to the subfolders so that each subfolder is a separate tab.
 I also use a wireless numpad tied to my knee to cycle between tabs and pages :)
 
 May your IFF always be true.
